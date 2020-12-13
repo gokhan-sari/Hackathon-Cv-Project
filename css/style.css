@@ -1,0 +1,34 @@
+.social:hover {
+    transform: scale(1.1);
+    transform: scale(1.1);
+    transform: scale(1.1);
+}
+.social {
+    transform: scale(0.8);
+
+    transform: scale(0.8);
+    transform: scale(0.8);
+    transition-duration: 0.5s;
+    transition-duration: 0.5s;
+    transition-duration: 0.5s;
+}
+
+
+
+#social-fb:hover {
+    color: #3B5998;
+}
+#social-tw:hover {
+    color: #4099FF;
+}
+#social-gp:hover {
+    color: black;
+}
+#social-em:hover {
+    color: #f39c12;
+}
+#social-lnkdn:hover{
+    color: #093550;
+}
+.text-center{text-align:center!important}@media (min-width:576px){.text-sm-left{text-align:left!important}
+a{color:#007bff;text-decoration:none;background-color:transparent}a:hover{color:#0056b3;text-decoration:underline}a:not([href]):not([class]){color:inherit;text-decoration:none}a:not([href]):not([class]):hover{color:inherit;text-decoration:none}
